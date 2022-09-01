@@ -1,1 +1,1 @@
-My second readme
+A Mgic file
